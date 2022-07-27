@@ -9,8 +9,8 @@ body {
 }
 
 header {
-    padding: 20px 35px;
-    background-color: cyan;
+    padding: 25px 40px;
+    background-color: blue;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
@@ -22,7 +22,7 @@ header h1 {
     display: inline;
     font-weight: bold;
     margin: 0;
-    font-size: 35px;
+    font-size: 40px;
     color: #fce138;
     text-align: right;
 }
@@ -39,7 +39,6 @@ header nav {
 
 header nav ul {
     justify-content: space-between;
-    display: inline;
     display: flex;
     flex-wrap: wrap;
 
@@ -52,10 +51,16 @@ header nav ul li a {
 
 }
 
+.hero {
+    background-size: contain;
+    background-position: 100%;
+}
+
+
 footer {
     background: #fce138;
     width: 100%;
-    padding: 40px 35px;
+    padding: 15px 20px;
 }
 
 footer h1 {
