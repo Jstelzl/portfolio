@@ -1,13 +1,13 @@
-## Josiah's Portfolio
+# Josiah's Portfolio
 
-# Purpose
+## Purpose
 
-# A website that allows users to view my work.
+### A website that allows users to view my work.
 
-# Built With
+### Built With
 HTML
 CSS
 Website
 https://jstelzl.github.io/portfolio/
 
-# Created by: Josiah Stelzl
+## Created by: Josiah Stelzl
