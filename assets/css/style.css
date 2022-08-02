@@ -138,7 +138,7 @@ h1 {
 /* End Projects Section */
 /* Footer start/ contact info start */
 footer {
-    background: #195ba6;
+    background: #ec9913;
     width: 100%;
     padding: 15px auto 0 auto;
     height: 200px;
@@ -147,7 +147,7 @@ footer {
 footer h3 {
     text-align: center;
     font-size: 35px;
-    color: #fce138;
+    color: #195ba6;
     line-height: 75px;
 }
 
@@ -158,5 +158,6 @@ footer h3 {
     font-size: 1.5;
     text-decoration: underline;
     justify-content: space-between;
+    color: #195ba6;
 } 
 /* End footer/ contact info */
